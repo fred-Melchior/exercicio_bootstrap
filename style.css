@@ -1,0 +1,21 @@
+header{
+    background-color: rgba(19, 140, 19, 0.833);
+    text-align: center;
+    padding: 8px 0;
+    color: #fff;
+    margin-bottom: 56px;
+}
+
+form{
+    margin: 16px 20%;
+}
+
+.form-label,
+.form-control{
+    margin: 16px 0;
+}
+
+.btn{
+    margin-top: 16px;
+    width: 100%;
+}
